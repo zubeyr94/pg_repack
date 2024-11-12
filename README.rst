@@ -8,8 +8,8 @@ pg_repack -- Reorganize tables in PostgreSQL databases with minimal locks
 
 |GitHub Actions|
 
-.. |GitHub Actions| image:: https://github.com/reorg/pg_repack/actions/workflows/regression.yml/badge.svg
-   :target: https://github.com/reorg/pg_repack/actions/workflows/regression.yml
+.. |GitHub Actions| image:: https://github.com/zubeyr94/pg_repack/actions/workflows/regression.yml/badge.svg
+   :target: https://github.com/zubeyr94/pg_repack/actions/workflows/regression.yml
    :alt: Linux build status
 
 pg_repack_ is a PostgreSQL extension which lets you remove bloat from
